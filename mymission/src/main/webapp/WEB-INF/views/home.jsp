@@ -9,6 +9,6 @@
 <meta charset="UTF-8" />
 </head>
 <body>
-자바 놀이터
+자바 놀이터 gogogo!!!
 </body>
 </html>
