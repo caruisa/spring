@@ -1,1 +1,1 @@
-https://caruisa.github.io/spring/
+https://caruisa.github.io/spring/mymission
